@@ -29,7 +29,7 @@
 
 ### Frontend
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img src="./assets/frontend/javascript.svg" width="36" height="36" alt="JavaScript" />
   </a>⠀
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
