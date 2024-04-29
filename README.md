@@ -12,13 +12,13 @@
 ### Connect with me
 
 <p align="left">
-  <a href="mailto:willamy.wlp@gmail.com" title="willamy.wlp@gmail.com">
+  <a href="mailto:willamy.wlp@gmail.com" title="willamy.wlp@gmail.com" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=square&labelColor=FF0000&logo=gmail&logoColor=white&link=willamy.wlp@gmail.com" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/willa-my/" title="willa-my">
+  <a href="https://www.linkedin.com/in/willa-my/" title="willa-my"  target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willa-my/" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/willamylp" title="willamylp">
+  <a href="https://github.com/willamylp" title="willamylp" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/willamylp?label=follow&style=social">
   </a>
 </p>
@@ -29,73 +29,73 @@
 
 ### Frontend
 <p align="left">
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/frontend/javascript.svg" width="36" height="36" alt="JavaScript" />
   </a>⠀
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/frontend/typescript.svg" width="36" height="36" alt="TypeScript" />
   </a>⠀
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/frontend/reactjs.svg" width="36" height="36" alt="ReactJS" />
   </a>
-  <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/frontend/tailwindcss.svg" width="36" height="36" alt="TailwindCSS" />
   </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/frontend/chartjs.svg" width="36" height="36" alt="ChartJS" />
   </a>
 </p>
 
 ### Backend
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/backend/python.svg" width="36" height="36" alt="Python" />
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/backend/django.svg" height="50" alt="Python Django" />
   </a>⠀
-  <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer">
+  <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/backend/django-rest.svg" height="50" alt="Django Rest Framework" />
   </a>⠀
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/backend/flask.svg" height="36" alt="Flask" />
   </a>⠀
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/backend/postgresql.svg" width="36" height="36" alt="PostgreSQL" />
   </a>⠀
-  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/backend/nginx.svg" height="50" alt="Nginx" />
   </a>⠀
 </p>
 
 ### Cloud & DevOps
 <p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/cloud_devops/docker.svg" width="36" height="36" alt="Docker" />
   </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/cloud_devops/git-scm.svg" width="36" height="36" alt="Git" />
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
+  <a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/cloud_devops/github.svg" width="36" height="36" alt="GitHub" />
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/cloud_devops/aws.svg" width="36" height="36" alt="AWS" />
   </a>
 </p>
 
 ### Tools and Applications
 <p align="left">
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/tools/vscode.svg" width="36" height="36" alt="VSCode" />
   </a>
-  <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer">
+  <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/tools/PyCharm.svg" width="36" height="36" alt="PyCharm" />
   </a>
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer">
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/tools/postman.svg" width="36" height="36" alt="Postman" />
   </a>
-  <a href="https://dbeaver.io" target="_blank" rel="noreferrer">
+  <a href="https://dbeaver.io" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="./assets/tools/DBeaver.svg" width="36" height="36" alt="DBeaver" />
   </a>
 </p>
