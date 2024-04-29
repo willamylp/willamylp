@@ -52,19 +52,19 @@
     <img src="./assets/backend/python.svg" width="36" height="36" alt="Python" />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="./assets/backend/django.svg" width="36" height="36" alt="Python Django" />
+    <img src="./assets/backend/django.svg" height="50" alt="Python Django" />
   </a>⠀
   <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer">
-    <img src="./assets/backend/django-rest.svg" width="36" height="36" alt="Django Rest Framework" />
+    <img src="./assets/backend/django-rest.svg" height="50" alt="Django Rest Framework" />
   </a>⠀
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="./assets/backend/flask.svg" width="36" height="36" alt="Flask" />
+    <img src="./assets/backend/flask.svg" height="36" alt="Flask" />
   </a>⠀
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="./assets/backend/postgresql.svg" width="36" height="36" alt="PostgreSQL" />
   </a>⠀
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
-    <img src="./assets/backend/nginx.svg" width="36" height="36" alt="Nginx" />
+    <img src="./assets/backend/nginx.svg" height="50" alt="Nginx" />
   </a>⠀
 </p>
 
