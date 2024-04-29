@@ -166,15 +166,15 @@ A full-time full-stack Web Developer 👨‍💻 working remotely 🚀
     </td>
     <td align="left">
       <h3>Tools and Applications</h3>
-      <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank">
+      <a href="https://code.visualstudio.com" target="_blank">
         <img
           style="margin: 10px"
-          src="./assets/tools/VSCODE.svg"
+          src="./assets/tools/vscode.svg"
           alt="VS Code"
           height="50"
         />
       </a>
-      <a href="https://www.postman.com" target="_blank">
+      <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank">
         <img
           style="margin: 10px"
           src="./assets/tools/PyCharm.svg"
