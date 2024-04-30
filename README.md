@@ -5,7 +5,8 @@
 <img width="30%" src="https://img.shields.io/static/v1?label=&message=I'm Willamy Domingos&color=f8efd4&style=for-the-badge" alt="Static Badge for Github">
 
 #### A full-time full-stack Web Developer 👨‍💻 working remotely 🚀
-
+>- 🎓 Bachelor in Information Systems from UFRN.
+>- 🤔 Exploring new technologies and developing software solutions.
 
 ### Connect with me
 
