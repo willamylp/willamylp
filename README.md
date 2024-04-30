@@ -50,6 +50,9 @@
         <a href="https://www.chartjs.org" target="_blank" rel="noreferrer" style="text-decoration: none">
           <img src="./assets/frontend/chartjs.svg" width="40" height="40" alt="ChartJS" />
         </a>
+        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
+          <img src="./assets/frontend/bootstrap.svg" height="35" alt="Bootstrap" />
+        </a>
       </p>
       <h3>Backend</h3>
       <p align="left">
@@ -89,6 +92,13 @@
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
           <img src="./assets/cloud_devops/docker.svg" width="40" height="40" alt="Docker" />
         </a>
+        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/cloud_devops/aws-light.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./assets/cloud_devops/aws-dark.svg">
+            <img src="./assets/cloud_devops/aws-dark.svg" width="40" height="40" alt="AWS" />
+          </picture>
+        </a>
         <a href="https://git-scm.com" target="_blank" rel="noreferrer" style="text-decoration: none">
           <img src="./assets/cloud_devops/git-scm.svg" width="40" height="40" alt="Git" />
         </a>
@@ -99,12 +109,8 @@
             <img alt="GitHub" src="./assets/cloud_devops/github-dark.svg" width="40" height="40" alt="GitHub" />
           </picture>
         </a>
-        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="./assets/cloud_devops/aws-light.svg">
-            <source media="(prefers-color-scheme: light)" srcset="./assets/cloud_devops/aws-dark.svg">
-            <img src="./assets/cloud_devops/aws-dark.svg" width="40" height="40" alt="AWS" />
-          </picture>
+        <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
+          <img src="./assets/cloud_devops/gitlab.svg" width="40" height="40" alt="Gitlab" />
         </a>
       </p>
       <h3>Tools and Applications</h3>
