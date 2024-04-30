@@ -1,13 +1,15 @@
+<link rel="stylesheet" href="./assets/style.css">
+
 ## Intro
 
 <img src="./images/computer-illustration.png" alt="Ilustração de um Computador e Café" min-width="40%" max-width="40%" width="40%" align="right">
 
 <img width="30%" src="https://img.shields.io/static/v1?label=&message=I'm Willamy Domingos&color=f8efd4&style=for-the-badge" alt="Static Badge for Github">
 
-#### A full-time full-stack Web Developer 👨‍💻 working remotely 🚀
+<h4>A full-time full-stack Web Developer 👨‍💻 working remotely 🚀</h4>
 
-- 🎓 Bachelor in Information Systems from UFRN.
-- 🤔 Exploring new technologies and developing software solutions.
+>- 🎓 Bachelor in Information Systems from UFRN.
+>- 🤔 Exploring new technologies and developing software solutions.
 
 ### Connect with me
 
@@ -26,10 +28,10 @@
 <br><br>
 
 <table>
-  <th>
+  <th align="left">
     <h3>Developer</h3>
   </th>
-  <th>
+  <th align="left">
     <h3>GitHub Stats</h3>
   </th>
   <tr>
