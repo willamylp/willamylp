@@ -127,6 +127,9 @@
         <a href="https://dbeaver.io" target="_blank" rel="noreferrer" style="text-decoration: none">
           <img src="./assets/tools/DBeaver.svg" width="40" height="40" alt="DBeaver" />
         </a>
+        <a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer" style="text-decoration: none">
+          <img src="./assets/tools/jira.svg" width="40" height="40" alt="Jira" />
+        </a>
       </p>
       <br><br>
     </td>
