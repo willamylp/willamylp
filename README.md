@@ -138,10 +138,10 @@
         <img width="30%" src="https://komarev.com/ghpvc/?username=willamylp&style=square" />
       </p>
       <p align="center">
-        <img width="90%" src="https://github-readme-stats.vercel.app/api?username=willamylp&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github"/>
+        <img width="90%" src="https://github-readme-stats.vercel.app/api?username=willamylp&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=100" alt="ilustração do status do github"/>
       </p>
       <p align="center">
-        <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willamylp&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
+        <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willamylp&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=100" alt="Github Stats"/>
       </p>
     </td>
   </tr>
