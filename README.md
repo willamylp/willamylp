@@ -39,11 +39,11 @@
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=py,django,flask,postgres" alt="Backend and Database" />
+<img src="https://skillicons.dev/icons?i=py,django,flask,postgres,supabase" alt="Backend and Database" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,bootstrap" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,bootstrap" alt="Frontend" />
 
 **DevOps & Cloud**
 
