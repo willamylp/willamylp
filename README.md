@@ -64,7 +64,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=willamylp&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=willamylp&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
-</div>
