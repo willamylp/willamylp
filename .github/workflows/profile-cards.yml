@@ -1,0 +1,52 @@
+name: Atualizar cards do perfil
+
+# Regenera assets/stats-*.svg e assets/langs-*.svg com os dados atuais do GitHub.
+#
+# Funciona sem configuração: usa o GITHUB_TOKEN do próprio workflow, que enxerga
+# os dados públicos. Para o card de linguagens contar também os repositórios
+# privados, crie um token pessoal (fine-grained) com acesso somente leitura aos
+# seus repositórios e salve como secret PROFILE_TOKEN.
+#
+# O GitHub pausa workflows agendados após 60 dias sem commits no repositório.
+# Se isso acontecer, basta reativar na aba Actions.
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # todo dia às 03:17 (horário de Brasília)
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/build_cards.py"
+      - ".github/workflows/profile-cards.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Gerar os cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+        run: python3 scripts/build_cards.py
+
+      - name: Publicar se algo mudou
+        run: |
+          git add assets
+          if git diff --cached --quiet; then
+            echo "Cards sem mudanças."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: atualiza os cards do perfil"
+          git push || (git pull --rebase && git push)
