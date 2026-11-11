@@ -47,7 +47,6 @@ Full-stack developer based in Rio Grande do Norte, in Brazil's Northeast, workin
     <tr><td><b>Filanda</b></td><td>Queue and call management for walk-in services: reception checks people in, staff call the next person with one click, and a TV panel announces the name out loud, in real time.</td></tr>
     <tr><td><b>SAPE</b></td><td>Electronic health records for rehabilitation centers (CRE) and psychosocial care centers (CAPS): scheduling, intake, waiting list and SUS billing in BPA and RAAS.</td></tr>
     <tr><td><b>SIGTAP</b></td><td>Lookup for the SUS procedures table: API and web interface with search, filters, links to CID and CBO codes and versioning by reference month, built from the monthly DATASUS packages.</td></tr>
-    <tr><td><b>MeuQDC</b></td><td>Drag-and-drop web editor for laying out electrical distribution boards: breakers, RCDs, surge protectors and busbars snap onto the rail, wires redraw themselves on every change and each part is drawn to scale, with a realistic finish. In progress.</td></tr>
   </tbody>
 </table>
 
@@ -82,8 +81,7 @@ I treat agents as part of the team: I write the spec, decide the architecture an
     <tr><td><b>FiscPro</b></td><td>SaaS multi-tenant de inteligência fiscal para escritórios de contabilidade: acompanha malhas fiscais, entrega de SPEDs e regularidade cadastral de toda a carteira de clientes, em painéis e relatórios.</td></tr>
     <tr><td><b>Filanda</b></td><td>Gestão de filas e chamadas para atendimento presencial: a recepção cadastra, o profissional chama com um clique e o painel da TV anuncia o nome por voz, em tempo real.</td></tr>
     <tr><td><b>SAPE</b></td><td>Prontuário eletrônico para centros de reabilitação (CRE) e de atenção psicossocial (CAPS): agenda, escuta inicial, fila de espera e faturamento SUS em BPA e RAAS.</td></tr>
-    <tr><td><b>SIGTAP</b></td><td>Consulta à Tabela de Procedimentos do SUS: API e interface web com busca, filtros, relações com CID e CBO e versionamento por competência, a partir dos pacotes mensais do DATASUS.</td></tr>
-    <tr><td><b>MeuQDC</b></td><td>Editor web para montar quadros de distribuição elétrica no arrasta e solta: disjuntores, IDR, DPS e barramentos encaixam no trilho, os fios se redesenham sozinhos a cada mudança e cada peça é desenhada em escala, com acabamento realista. Em construção.</td></tr>
+    <tr><td><b>SIGTAP</b></td><td>Consulta à Tabela de Procedimentos do SUS: API e interface web com busca, filtros, relações com CID e CBO e versionamento por competência, a partir dos pacotes mensais do DATASUS.</td>
   </tbody>
 </table>
 
